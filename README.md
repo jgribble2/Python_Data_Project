@@ -1,0 +1,1 @@
+OVERVIEW - Welcome to my analysis of the current job market, focusing specifically on data scientist roles. This project was created out of a desire to navigate and understand the job market more effectively. It dives into the top-paying and most in-demand skills to help find optimal job opportunities for data analysis.
