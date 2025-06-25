@@ -31,3 +31,11 @@ This section outlines the steps taken to prepare the data for analysis in order 
 
 1. Import and clean up data
    - I started by importing the necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality
+
+
+
+
+
+1. What are the most demanded skills for the top three most popular data roles?
+   - To find the most demanded skills for the top three most popular data roles, I filtered the positions by which ones were most popular and got the top five skills for these top three roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting.
+   - View my notebook with detailed steps in 
