@@ -43,12 +43,14 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 
 Data Visualization:  
 
-<img width="365" height="124" alt="image" src="https://github.com/user-attachments/assets/e8e8d5d2-d4e5-44cf-9aff-7219d0657974" />
+<img width="720" height="236" alt="image" src="https://github.com/user-attachments/assets/5392dd15-0c87-4725-8a53-19112ae08acd" />
+
 
 
 Results:
 
-<img width="328" height="241" alt="image" src="https://github.com/user-attachments/assets/57306941-d73d-4704-bc28-a2ba2926b6a5" />
+<img width="637" height="483" alt="image" src="https://github.com/user-attachments/assets/faa15f07-fa57-42b3-82ee-3ffbc2e6e88f" />
+
 
 Insights:
 
