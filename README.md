@@ -59,7 +59,7 @@ Insights:
    - Python is a versatile skill highly demanded across all three roles, but especially within data scientist and engineer roles.
 
 ### 2. How are in-demand skills trending for data scientists?
-   - To find how skills are trending for data scientists, I filtered data scientists positions and grouped the skills by the month of the job posting. This got me the top five skills of data scientists by month, showing how popular certain skills were
+   - To find how skills are trending for data scientists, I filtered data scientists positions and grouped the skills by the month of the job posting. This got me the top five skills of data scientists by month, showing how popular certain skills were.
    - View my notebook with detailed steps in the 3.3_Skills_Trend.ipynb section!
 
 Data Visualization:
@@ -76,3 +76,7 @@ Insights:
    - Python remains the most consistantly demanded skill throughout the year, with slight dips in MArch and September
    - SQL and R both remain constant throughout the year, yet both experience a decrease in demand from August to September
    - The demand for SAS and Tableau seems to be neck and neck from month to month, with only Tableau experiencing the same September dip as the other skills
+
+### 3. How well do jobs and skills pay for data scientists?
+   - To identify the highest-paying roles and skills, I only got jobs in the United States and looked at their median salaries. First though, I looekd at the salary distributions of common data jobs like data scientists, data engineers, and data analysts to get an idea of which jobs are paid the most.
+   - View my notebook with detailed steps in the 3.4_Salary_Analysis.ipynb section!
