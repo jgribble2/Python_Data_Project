@@ -37,11 +37,12 @@ This section outlines the steps taken to prepare the data for analysis in order 
 
 Each Jupyter notebook for this project aimed at investigating specific aspects of the data job market. Here's how I approached each question:
 
-1. What are the most demanded skills for the top three most popular data roles?
+### 1. What are the most demanded skills for the top three most popular data roles?
    - To find the most demanded skills for the top three most popular data roles, I filtered the positions by which ones were most popular and got the top five skills for these top three roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting.
    - View my notebook with detailed steps in the 3.2_Skills_Count.ipynb section!
 
 Data Visualization:  
+
 <img width="365" height="124" alt="image" src="https://github.com/user-attachments/assets/e8e8d5d2-d4e5-44cf-9aff-7219d0657974" />
 
 
@@ -53,4 +54,22 @@ Insights:
 
    - SQL ia the most requested skill for data analysts and data engineers, being in over half the job postings for both roles. Python is the most sought-after skill for data scientists, appearing in 72% of job postings.
    - Data engineers require more specialized technical skills (AWS, Azure, Spark) compared to data analysts and scientists who are expected to be proficient in more general data management and analysis tools (Excel, Tableau).
-   - Python is a versatile skill highly demanded across all three roles, but especially within data scientist and engineer roles. 
+   - Python is a versatile skill highly demanded across all three roles, but especially within data scientist and engineer roles.
+
+### 2. How are in-demand skills trending for data scientists?
+   - To find how skills are trending for data scientists, I filtered data scientists positions and grouped the skills by the month of the job posting. This got me the top five skills of data scientists by month, showing how popular certain skills were
+   - View my notebook with detailed steps in the 3.3_Skills_Trend.ipynb section!
+
+Data Visualization:
+
+<img width="215" height="54" alt="image" src="https://github.com/user-attachments/assets/8eacefff-1920-4462-a049-e27148be53ef" />
+
+Results:
+
+<img width="622" height="454" alt="image" src="https://github.com/user-attachments/assets/7e8c5fd9-96ff-4fb4-99f5-bf45d32aa802" />
+
+Insights:
+
+   - Python remains the most consistantly demanded skill throughout the year, with slight dips in MArch and September
+   - SQL and R both remain constant throughout the year, yet both experience a decrease in demand from August to September
+   - The demand for SAS and Tableau seems to be neck and neck from month to month, with only Tableau experiencing the same September dip as the other skills
