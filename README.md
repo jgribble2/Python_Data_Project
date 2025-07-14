@@ -62,7 +62,8 @@ Insights:
 
 Data Visualization:
 
-<img width="215" height="54" alt="image" src="https://github.com/user-attachments/assets/8eacefff-1920-4462-a049-e27148be53ef" />
+<img width="430" height="104" alt="image" src="https://github.com/user-attachments/assets/c5ccc3b5-c773-421b-b646-5c7c6787ac82" />
+
 
 Results:
 
