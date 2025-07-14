@@ -44,7 +44,13 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 Data Visualization:  
 <img width="365" height="124" alt="image" src="https://github.com/user-attachments/assets/e8e8d5d2-d4e5-44cf-9aff-7219d0657974" />
 
+
 Results:
 
 <img width="328" height="241" alt="image" src="https://github.com/user-attachments/assets/57306941-d73d-4704-bc28-a2ba2926b6a5" />
 
+Insights:
+
+   - SQL ia the most requested skill for data analysts and data engineers, being in over half the job postings for both roles. Python is the most sought-after skill for data scientists, appearing in 72% of job postings.
+   - Data engineers require more specialized technical skills (AWS, Azure, Spark) compared to data analysts and scientists who are expected to be proficient in more general data management and analysis tools (Excel, Tableau).
+   - Python is a versatile skill highly demanded across all three roles, but especially within data scientist and engineer roles. 
