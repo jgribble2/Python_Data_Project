@@ -80,3 +80,17 @@ Insights:
 ### 3. How well do jobs and skills pay for data scientists?
    - To identify the highest-paying roles and skills, I only got jobs in the United States and looked at their median salaries. First though, I looekd at the salary distributions of common data jobs like data scientists, data engineers, and data analysts to get an idea of which jobs are paid the most.
    - View my notebook with detailed steps in the 3.4_Salary_Analysis.ipynb section!
+
+Data Visualization:
+
+<img width="689" height="184" alt="image" src="https://github.com/user-attachments/assets/837d097b-9b85-4ef5-9539-f8bea26aad62" />
+
+Results:
+
+<img width="693" height="463" alt="image" src="https://github.com/user-attachments/assets/5d3abd6c-ea0d-4941-9ea6-fc6a71660e81" />
+
+Insights:
+
+   - There's a significant variation in salary ranges netween different job titles. Senior data scientist positions tend to have the highest salary potential, indicating the high value placed on advanced data skills and experience in the industry.
+   - Senior data engineer and senior data scientist roles show a considerable number of outliers on the higher side of the salary spectrum, suggesting that exceptional skills or circumstances can lead to high pay in these roles. In contrast, data analyst roles demonstrate more consistency in salary, with fewer outliers.
+   - The median salaries increase with the seniority and specialization of the roles. Senior roles for data scientists, data engineers, and data analysts not only have higher median salaries but also larger differences in typical salaries, reflecting greater variance in compensation as responsibility increases.  
