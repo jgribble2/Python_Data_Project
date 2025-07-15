@@ -32,6 +32,11 @@ This section outlines the steps taken to prepare the data for analysis in order 
 1. Import and clean up data
    - I started by importing the necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality
 
+<img width="680" height="237" alt="image" src="https://github.com/user-attachments/assets/976c3f91-3b3e-4675-9cba-45f10a17e2f4" />
+
+2. Filter to data scientist jobs in the US
+
+<img width="718" height="46" alt="image" src="https://github.com/user-attachments/assets/cd490bd5-2337-40d7-86ae-4b84033b3139" />
 
 ## THE ANALYSIS
 
