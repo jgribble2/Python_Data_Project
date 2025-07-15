@@ -130,3 +130,19 @@ Insights:
    - The scatter plot shows that most of the programming skills tend to cluster around both higher salary levels and higher likelihood of appearing in data scientist jobs, indicating these as some of the most optimal skills to learn for aspiring data scientists.
    - Libraries (specifically Tensorflow and Hadoop) are on the higher end of salaries, yet appear on the lower end of being required for advertised data scientist roles.
    - Analyst tools like Tableau and Excel, while still important to any data scientist or analytical role, tend to fall on the lower ends of both average salaries and likelihood of being in data scientist roles.
+
+## What I Learned
+
+Through the creation of this project, I have been able to deepen my understanding of the data analytical job market and enhance my technical skills with Python, specifically with data manipulation and visualization. A few specific things I learned include:
+   - Advanced Python Usage: Utilizing libraries such as Pandas for data manipulation both matplotlib and Seaborn for data visualization helped me to perform more complex data analysis tasks more efficently.
+   - Data Cleaning Importance: I learned that thorough data cleaning and preparation are crucial before any analysis can be conducted, ensuring the accuracy of insights found through the data.
+   - Strategic Skill Analysis: This project emphasized the importance of aligning one's technical skills with market demand. Understanding the relationship between skill demand, salary, and job availability allows for more strategic career planning in the tech industry.
+
+## Insights
+
+This project provided several general insights into the data job market for data scientists:
+   - Skill Demand and Salary Correlation: There is a clear correlation between the demand for specific skills and the salaries these skills command. Advanced and specialized skills like Python and Tensorflow often lead to higher salaries.
+   - Market Trends: There are changing trends in skill demand, highlighting the dynamic nature of the data job market. Keeping up with these trends is essential for career gorwth as a data scientist.
+   - Economic Value of Skills: Understanding which skills are both in-demand and well-compensated can guide data scientists in prioritizing learning to maximize their economic returns.
+
+## Chanllenges I Faced
