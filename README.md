@@ -94,3 +94,17 @@ Insights:
    - There's a significant variation in salary ranges netween different job titles. Senior data scientist positions tend to have the highest salary potential, indicating the high value placed on advanced data skills and experience in the industry.
    - Senior data engineer and senior data scientist roles show a considerable number of outliers on the higher side of the salary spectrum, suggesting that exceptional skills or circumstances can lead to high pay in these roles. In contrast, data analyst roles demonstrate more consistency in salary, with fewer outliers.
    - The median salaries increase with the seniority and specialization of the roles. Senior roles for data scientists, data engineers, and data analysts not only have higher median salaries but also larger differences in typical salaries, reflecting greater variance in compensation as responsibility increases.  
+
+Data Visualization:
+
+<img width="888" height="423" alt="image" src="https://github.com/user-attachments/assets/dd6ddf18-703d-429b-befe-1a2439192768" />
+
+Results:
+
+<img width="635" height="469" alt="image" src="https://github.com/user-attachments/assets/9cebc3ab-6c9c-4bde-ad93-de71a36fd864" />
+
+Insights:
+
+   - The top graph shows specialized technical skills like Asana, Airtable, and Watson are associated with higher salaries, some reaching up over $250K, suggesting that advanced technical proficiency can increase earning potential.
+   - The bottom graph highlights that foundational programming skills like Python, SQL, and R are the most in-demand, even though they may not offer the highest salaries. This demonstrates the importance of these core skills for employability in data scientist roles.
+   - There's a clear distinction between the skills that are highest paid and those that are most in-demand. Data scientists aiming to maximize their career potential should consider developing a diverse skill set that includes both high-paying specialized skills as well as more in-demand, foundational skills.
