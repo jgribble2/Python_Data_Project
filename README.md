@@ -35,6 +35,7 @@ This section outlines the steps taken to prepare the data for analysis in order 
 <img width="680" height="237" alt="image" src="https://github.com/user-attachments/assets/976c3f91-3b3e-4675-9cba-45f10a17e2f4" />
 
 2. Filter to data scientist jobs in the US
+   - For the majority of this project, I filtered the original dataframe to only include data scientist roles within the United States
 
 <img width="718" height="46" alt="image" src="https://github.com/user-attachments/assets/cd490bd5-2337-40d7-86ae-4b84033b3139" />
 
