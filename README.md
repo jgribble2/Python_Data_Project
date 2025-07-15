@@ -108,3 +108,19 @@ Insights:
    - The top graph shows specialized technical skills like Asana, Airtable, and Watson are associated with higher salaries, some reaching up over $250K, suggesting that advanced technical proficiency can increase earning potential.
    - The bottom graph highlights that foundational programming skills like Python, SQL, and R are the most in-demand, even though they may not offer the highest salaries. This demonstrates the importance of these core skills for employability in data scientist roles.
    - There's a clear distinction between the skills that are highest paid and those that are most in-demand. Data scientists aiming to maximize their career potential should consider developing a diverse skill set that includes both high-paying specialized skills as well as more in-demand, foundational skills.
+
+### 4. What is the most optimal skill to learn for data scientists?
+
+Data Visualization:
+
+<img width="887" height="535" alt="image" src="https://github.com/user-attachments/assets/75d47784-999c-4c76-b0df-96cd5b0d7c9f" />
+
+Results:
+
+<img width="666" height="467" alt="image" src="https://github.com/user-attachments/assets/67ca3587-6c67-4ea3-a376-2c845bef6f2c" />
+
+Insights:
+
+   - The scatter plot shows that most of the programming skills tend to cluster around both higher salary levels and higher likelihood of appearing in data scientist jobs, indicating these as some of the most optimal skills to learn for aspiring data scientists.
+   - Libraries (specifically Tensorflow and Hadoop) are on the higher end of salaries, yet appear on the lower end of being required for advertised data scientist roles.
+   - Analyst tools like Tableau and Excel, while still important to any data scientist or analytical role, tend to fall on the lower ends of both average salaries and likelihood of being in data scientist roles.
