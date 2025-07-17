@@ -145,7 +145,7 @@ This project provided several general insights into the data job market for data
    - Market Trends: There are changing trends in skill demand, highlighting the dynamic nature of the data job market. Keeping up with these trends is essential for career gorwth as a data scientist.
    - Economic Value of Skills: Understanding which skills are both in-demand and well-compensated can guide data scientists in prioritizing learning to maximize their economic returns.
 
-## Chanllenges I Faced
+## Challenges I Faced
 
 This project was not without its challenges, but it provided great learning opportunities:
 
